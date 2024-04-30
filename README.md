@@ -3,7 +3,5 @@ test app
 
 
 
-import 'package:http/http.dart' as http;
-
-
-import 'package:path_provider/path_provider.dart';
+  http: ^1.1.0
+  path_provider: ^2.1.3
